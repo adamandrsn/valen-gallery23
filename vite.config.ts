@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/valen-gallery/", // PENTING: Ganti dengan nama repository GitHub kamu yang sebenarnya
+  base: "/valen-gallery23/", // PENTING: Ganti dengan nama repository GitHub kamu yang sebenarnya
   server: {
     host: "::",
     port: 8080,
