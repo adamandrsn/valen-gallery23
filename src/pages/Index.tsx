@@ -8,14 +8,14 @@ import g7 from "@/assets/gallery-7.jpeg";
 import g8 from "@/assets/gallery-8.jpeg";
 
 const photos = [
-  { src: g1, w: 768, h: 1024, caption: "Cahaya pagi" },
-  { src: g2, w: 768, h: 768, caption: "Masih hidup" },
-  { src: g3, w: 768, h: 960, caption: "Hangat" },
-  { src: g4, w: 768, h: 1152, caption: "Bayang" },
-  { src: g5, w: 768, h: 768, caption: "Genggam" },
-  { src: g6, w: 768, h: 960, caption: "Diam" },
-  { src: g7, w: 768, h: 1024, caption: "Senja" },
-  { src: g8, w: 768, h: 768, caption: "Lipatan" },
+  { src: g1, w: 768, h: 1024, caption: "" },
+  { src: g2, w: 768, h: 768, caption: "" },
+  { src: g3, w: 768, h: 960, caption: "" },
+  { src: g4, w: 768, h: 1152, caption: "" },
+  { src: g5, w: 768, h: 768, caption: "" },
+  { src: g6, w: 768, h: 960, caption: "" },
+  { src: g7, w: 768, h: 1024, caption: "" },
+  { src: g8, w: 768, h: 768, caption: "" },
 ];
 
 const Index = () => {
